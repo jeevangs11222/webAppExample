@@ -26,6 +26,7 @@
 		<finalName>webappExample</finalName>
 		
 		<plugins>
+	<!-- Maven-nexus-integration -->		
 	<!-- Maven Plugin for Tomcat -->
 	<plugin>
 		<groupId>org.codehaus.cargo</groupId>
